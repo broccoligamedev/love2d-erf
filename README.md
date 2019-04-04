@@ -1,5 +1,5 @@
 # love2d-erf
-Arcade game based on the N-Back memory task.
+Arcade game based on the N-Back memory task. I tested this with LOVE 11.2. Other versions haven't been tested.
 
 CONTROLS
 
